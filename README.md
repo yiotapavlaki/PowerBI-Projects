@@ -1,7 +1,7 @@
 # PowerBI-Projects
 This section highlights my hands‑on experience using Power BI Desktop and the Power BI Service to transform raw data into clear, interactive dashboards. Through multiple exercises and labs, I developed strong skills in data cleaning, modelling, and visual storytelling.
 
-🧠 Skills Demonstrated
+🧠 **Skills Demonstrated**
 - Importing and transforming data using Power Query
 - Building data models and defining relationships
 - Creating calculated columns and basic DAX measures
@@ -10,7 +10,7 @@ This section highlights my hands‑on experience using Power BI Desktop and the 
 - Publishing and sharing reports in the Power BI Service
 - Applying clean, consistent visual design principles
 
-📈 Work Completed in Power BI
+📈 *Work Completed in Power BI*
 Excel to Power BI Reporting
 Converted an Excel workbook into a fully interactive Power BI report by:
 - Cleaning and shaping data
@@ -32,7 +32,8 @@ Applied best‑practice design techniques:
 - Clear visual hierarchy
 - User‑friendly navigation with slicers and drill‑downs
 
-🎯 Summary
+🎯 **Summary**
+
 My Power BI work demonstrates strong capability in:
 - Cleaning and modelling data
 - Building interactive, insight‑driven dashboards
